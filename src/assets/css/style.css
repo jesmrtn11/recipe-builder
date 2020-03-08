@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font: 15px "Lato";
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: #eee;
+}
+.content {
+  display: flex;
+}
